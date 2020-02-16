@@ -5,7 +5,6 @@ D:\Programmer\Web\Practice\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.dll
 D:\Programmer\Web\Practice\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.pdb
 D:\Programmer\Web\Practice\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.Views.dll
 D:\Programmer\Web\Practice\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.Views.pdb
-D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csprojAssemblyReference.cache
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csproj.CoreCompileInputs.cache
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.RazorAssemblyInfo.cache
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.RazorAssemblyInfo.cs
@@ -30,3 +29,6 @@ D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.Views.pdb
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.dll
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.pdb
 D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csproj.CopyComplete
+D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_Rainmove.g.cshtml.cs
+D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csprojAssemblyReference.cache
+D:\Programmer\Web\Practice\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Elements.g.cshtml.cs
